@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-
+#edit to see diff
 # Load the data and create the data matrices X and Y
 # This creates a feature vector X with a column of ones (bias)
 # and a column of car weights.
